@@ -1,0 +1,13 @@
+
+**Database Name: uni**
+
+**Admin Login Details**
+
+Username: admin
+Password: 123
+
+**Faculty Login Details**
+
+Username: robinson
+Password: 123
+
